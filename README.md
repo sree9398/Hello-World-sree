@@ -1,3 +1,3 @@
-# Hello-World-sree
+# Hello-World-Rishi
 wcs-lab-repository
-created by sreekanth on wcs lab 2023
+created by revanth on wcs lab 2023
